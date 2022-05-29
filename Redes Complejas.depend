@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1637335661 source:c:\users\user\desktop\pasantia\redes complejas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"redescomplejas.h"
+	"funcionesextras.h"
+
+1637339660 c:\users\user\desktop\pasantia\redes complejas\redescomplejas.h
+
+1637339453 source:c:\users\user\desktop\pasantia\redes complejas\redescomplejas.c
+	"redescomplejas.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	"funcionesextras.h"
+
+1636306038 source:c:\users\user\desktop\pasantia\redes complejas\funcionesextras.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<Windows.h>
+	"mtwister.h"
+
+1636302038 c:\users\user\desktop\pasantia\redes complejas\funcionesextras.h
+
+1614029703 source:c:\users\user\desktop\pasantia\redes complejas\mtwister.c
+	"mtwister.h"
+
+1614029703 c:\users\user\desktop\pasantia\redes complejas\mtwister.h
+
